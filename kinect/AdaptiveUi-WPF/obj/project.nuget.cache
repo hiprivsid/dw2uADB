@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fuy/Ia2hFZm7AcS5fHTZ5qny9bxibbojMkSrkP5c0KF4CYFSP5s7EYIf4AbnT0/a3XHh5ViHJtXB9cnYMn6Y/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrcra\\Documents\\GitHub\\dw2uADB\\kinect\\AdaptiveUi-WPF\\AdaptiveUI-WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrcra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mrcra\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

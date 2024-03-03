@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWWhdmdV1DZicgCNpxYpjkyOHEeEcDVYt5Yxd2zbrOUdCC2Izn0f0W9qxhvslRb4ykuFc/LYDmMthTBiX0R7rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrcra\\Documents\\GitHub\\dw2uADB\\kinect\\Microsoft.Kinect.Toolkit.Controls\\Microsoft.Kinect.Toolkit.Controls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrcra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mrcra\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

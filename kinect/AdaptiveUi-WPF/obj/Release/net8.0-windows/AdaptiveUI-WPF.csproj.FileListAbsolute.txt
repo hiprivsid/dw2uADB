@@ -1,0 +1,11 @@
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\DialPadControl.baml
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\LabeledSlider.baml
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\PhysicalSetupVisualizer.baml
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\DialPadControl.g.cs
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\LabeledSlider.g.cs
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\PhysicalSetupVisualizer.g.cs
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\SettingsControl.g.cs
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\App.g.cs
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\AdaptiveUI-WPF_MarkupCompile.cache
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\AdaptiveUi-WPF\obj\Release\net8.0-windows\AdaptiveUI-WPF_MarkupCompile.lref

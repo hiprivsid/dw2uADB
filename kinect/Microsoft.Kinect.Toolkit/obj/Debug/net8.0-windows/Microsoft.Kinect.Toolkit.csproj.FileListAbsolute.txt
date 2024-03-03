@@ -1,0 +1,8 @@
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\Microsoft.Kinect.Toolkit\obj\Debug\net8.0-windows\KinectSensorChooserUI.baml
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\Microsoft.Kinect.Toolkit\obj\Debug\net8.0-windows\KinectSensorChooserUI.g.cs
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\Microsoft.Kinect.Toolkit\obj\Debug\net8.0-windows\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\Microsoft.Kinect.Toolkit\obj\Debug\net8.0-windows\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\Microsoft.Kinect.Toolkit\obj\Debug\net8.0-windows\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\Microsoft.Kinect.Toolkit\obj\Debug\net8.0-windows\Microsoft.Kinect.Toolkit.csproj.GenerateResource.cache
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\Microsoft.Kinect.Toolkit\obj\Debug\net8.0-windows\Microsoft.Kinect.Toolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrcra\Documents\GitHub\dw2uADB\kinect\Microsoft.Kinect.Toolkit\obj\Debug\net8.0-windows\Microsoft.Kinect.Toolkit.csproj.CoreCompileInputs.cache
